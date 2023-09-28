@@ -1,0 +1,31 @@
+body{
+  background-color: #0000FF;
+}
+
+p{
+  color: red;
+}
+
+.box1{
+  margin-top:20px;
+  margin-right:10px;
+  margin-bottom:20px;
+  margin-left: 10px;
+  border: black 3px solid;
+  padding: 20px 10px 0px 0px
+}
+.box2{
+  margin-top:20px;
+  margin-right:10px;
+  margin-bottom:20px;
+  margin-left: 10px;
+  border: green 3px dashed;
+}
+
+img {
+ max-width: 15%;
+ max-height: 15%;
+ padding:15px 15px 15px 15px;
+ border: yellow 3px dashed;
+
+}
