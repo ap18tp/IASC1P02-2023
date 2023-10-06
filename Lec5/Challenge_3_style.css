@@ -1,0 +1,64 @@
+﻿body{
+	color:blue;
+	background-color:white;
+}
+
+
+#wrapper{
+	width:1425px;
+	height: 780px;
+	margin:0 auto;
+	background-color:green;
+}
+
+#header{
+	height:5px;
+	text-align:center;
+
+}
+
+.Box1{
+	float:left;
+	width:275px;
+	height:275px;
+	background-color:blue;
+	padding:10px;
+	color:black;
+	margin-left:225px;
+	text-align:left;
+	font-size:15px;
+
+
+}
+.Box2{
+	float:right;
+	width:275px;
+	height:275px;
+	background:red;
+	padding:10px;
+	color:black;
+	margin-right:225px;
+	text-align:left;
+	font-size:15px;
+
+}
+
+.Box3{
+	margin: 0 auto;
+	clear: both;
+	width:275px;
+	height:275px;
+	background:yellow;
+	padding:1px;
+	color:black;
+	text-align:left;
+	font-size:15px;
+}
+
+
+#bottom{
+	text-align:center;
+	height:100px;
+	clear:both;
+
+}
