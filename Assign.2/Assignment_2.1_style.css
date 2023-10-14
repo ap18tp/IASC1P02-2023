@@ -1,0 +1,78 @@
+body{
+	color:black;
+	background-color:#ccdcc3;
+}
+
+#wrapper{
+	width:750px;
+	margin:0 auto;
+	background-color:#d9e5d3;
+}
+
+#header{
+	height:50px;
+	text-align:center;
+
+}
+
+#leftbody{
+	float:left;
+	width:190px;
+	height:300px;
+	background-color:#b5cda9;
+	padding:5px;
+
+}
+
+#rightbody{
+	float:right;
+	width:540px;
+	height:300px;
+	background:#a4c195;
+	padding:5px;
+}
+
+
+#bottom{
+	text-align:center;
+	height:500px;
+  width: 400px;
+	clear:both;
+}
+
+#Athabasca_Glacier {
+  max-width: 50%;
+  position: relative;
+   border: 3px solid #73AD21;
+}
+#My_Picture{
+  max-width: 50%;
+  position: relative;
+  border: 3px solid #73AD21;
+}
+p{
+  font-weight: bold;
+}
+
+ol, ul{
+  color:#4a673b;
+}
+
+#bottom p{
+  font-size:90%;
+  text-transform: lowercase;
+}
+#Mr_Elk {
+  position:fixed;
+  right:0;
+  padding-right: 15px;
+  max-width: 5%
+}
+#Alberta{
+  position: absolute;
+  top: 80px;
+ right: 0;
+ width: 200px;
+ height: 100px;
+  max-width: 10%;
+}
